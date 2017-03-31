@@ -1,0 +1,96 @@
+﻿
+@model IEnumerable<RecipeManager.Models.UserRecipe>
+
+@{
+    ViewBag.Title = "Recipe Checklist";
+}
+<script src="~/Scripts/jquery-1.10.2.js"></script>
+<script src="~/Scripts/angular.js"></script>
+
+<h2>Recipe Checklist</h2>
+<div ng-app="RecipeCheckList">
+    <div ng-controller="RecipeCheckListCtrl">
+        <div class="row">
+            <div class="col-md-2">User Name:<b>@ViewBag.UserName</b></div>
+            <div class="col-md-2">@Html.Label("Recipe", htmlAttributes: new { @class = "control-label pull-right" })</div>
+            <div class="col-md-6">
+               
+                @Html.DropDownList("RecipeID", null,"--select--", htmlAttributes: new { @class = "form-control", @id = "ddlRecipeID" })
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-primary" ng-click="addUserRecipe()">Add to List</button>
+            </div>
+        </div>
+        <hr />
+        <div class="row">
+            <div ng-repeat="item in CheckList track by $index" class="col-md-{{12/CheckList.length}}">
+                <b>{{$index+1}}. {{item.RecipeName}}</b>
+                <div ng-repeat="ing in item.RecipeIngredients track by $index">
+                    <input type="checkbox" ng-model="ing.isChecked" ng-change="addUpateUserIngredients(item.RecipeID,ing.IngredientID,ing.isChecked)" />
+                    {{ing.IngredientName}}
+
+                </div>
+            </div>
+        </div>
+        </div>
+</div>
+
+<script>
+
+
+    var app = angular.module("RecipeCheckList", []);
+    app.factory("RecipeService", [
+      "$http", "$q", "$timeout", function ($http, $q, $timeout) {
+          //Get all user recipes on the server
+          function getUserRecipes() {
+              var deferred = $q.defer();
+              return $http({
+                  url: '/userRecipes/GetUserRecipes', method: "GET"// params: { 'message': message }
+              })
+             
+          }
+          function addUserRecipes() {
+              var recipeId = document.getElementById('ddlRecipeID').value;
+              if (recipeId == '') return;
+              var deferred = $q.defer();
+              return $http({
+                  url: '/userRecipes/AddUserRecipes', method: "POST", data: { 'RecipeID': recipeId }
+              })
+             
+          }
+          function addUpateUserIngredients(RecipeID, IngredientID, isChecked) {
+              return $http({
+                  url: '/userRecipes/addUpateUserIngredients', method: "POST", data: { RecipeID: RecipeID, IngredientID: IngredientID, isChecked: isChecked }
+              })
+          }
+          return {
+              getUserRecipes: getUserRecipes,
+              addUserRecipes: addUserRecipes,
+              addUpateUserIngredients: addUpateUserIngredients
+          };
+      }
+    ]);
+    app.controller('RecipeCheckListCtrl', ["$scope", "$http", "RecipeService", function ($scope, $http, RecipeService) {
+        RecipeService.getUserRecipes().then(function (result) {
+            $scope.CheckList = result.data;
+        });
+        $scope.addUserRecipe = function () {
+            RecipeService.addUserRecipes().then(function (result) {
+                alert(result.data);
+                RecipeService.getUserRecipes().then(function (result) {
+                    $scope.CheckList = result.data;
+                });
+            });
+
+        }
+        $scope.addUpateUserIngredients = function (RecipeID, IngredientID, isChecked) {
+            RecipeService.addUpateUserIngredients(RecipeID, IngredientID, isChecked).then(function (result) {
+                RecipeService.getUserRecipes().then(function (result) {
+                    $scope.CheckList = result.data;
+                });
+            });
+        }
+    }]);
+
+</script>
+

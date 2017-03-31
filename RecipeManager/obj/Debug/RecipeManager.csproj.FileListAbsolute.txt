@@ -1,0 +1,118 @@
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\csc.exe
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\System.Collections.Immutable.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\System.Reflection.Metadata.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\vbc.exe
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\VBCSCompiler.exe
+F:\Learning Demos\RecipeManager\RecipeManager\bin\roslyn\VBCSCompiler.exe.config
+F:\Learning Demos\RecipeManager\RecipeManager\bin\RecipeManager.dll.config
+F:\Learning Demos\RecipeManager\RecipeManager\bin\RecipeManager.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\RecipeManager.pdb
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Antlr3.Runtime.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\EntityFramework.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\EntityFramework.SqlServer.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Web.Infrastructure.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Newtonsoft.Json.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Owin.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Helpers.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Mvc.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Optimization.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Razor.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.Deployment.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.Razor.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\WebGrease.dll
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Helpers.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Mvc.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Optimization.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.Razor.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.Deployment.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\System.Web.WebPages.Razor.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Antlr3.Runtime.pdb
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Newtonsoft.Json.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\EntityFramework.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\EntityFramework.SqlServer.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Learning Demos\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Learning Demos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojResolveAssemblyReference.cache
+F:\Learning Demos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.dll
+F:\Learning Demos\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\csc.exe
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\vbc.exe
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\RecipeManager.dll.config
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\RecipeManager.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\RecipeManager.pdb
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Antlr3.Runtime.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\EntityFramework.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Newtonsoft.Json.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Owin.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Helpers.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Mvc.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Optimization.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Razor.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\WebGrease.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Helpers.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Mvc.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Optimization.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.Razor.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Antlr3.Runtime.pdb
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Newtonsoft.Json.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\EntityFramework.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\obj\Debug\RecipeManager.csprojResolveAssemblyReference.cache
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\obj\Debug\RecipeManager.dll
+C:\Users\Prakash\Desktop\RecipeManager\RecipeManager\obj\Debug\RecipeManager.pdb
